@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Khan</h1>
 <h3 align="center">Frontend Developer • Full Stack Developer • Android Developer</h3>
 
-🚀 A passionate developer skilled in **React**, **React Native**, **Android (Kotlin)**, and **Full Stack Web Development**.  
-I build fast, responsive, and scalable applications with modern tools and clean UI/UX.
+🚀 Passionate developer skilled in **React**, **React Native**, **Android (Kotlin)**, and **Full Stack Web Development**.  
+I build fast, clean, responsive, and scalable applications with modern UI/UX.
 
-📩 Email: **mh410981@gmail.com**
+📩 Email: **mh410981@gmail.com**  
+📍 Islamabad, Pakistan
 
 ---
 
@@ -17,11 +18,11 @@ I build fast, responsive, and scalable applications with modern tools and clean 
 ---
 
 # 🧑‍💻 About Me
-- 🌟 **Frontend Specialist** (React, Tailwind, Bootstrap, Redux)
+- 🌟 **Frontend Specialist** (React, TailwindCSS, Redux)
 - 📱 **Android Developer** (Kotlin + Jetpack + Firebase)
 - 📱 **React Native Developer**
-- ⚡ **Full Stack Developer** (MERN + .NET + MySQL + Oracle)
-- 🎨 UI/UX enthusiast — clean, modern, responsive designs  
+- ⚡ **Full Stack Developer** (MERN, .NET, MySQL, Oracle)
+- 🎨 Clean & modern UI/UX designs  
 - 💼 Open to freelance & remote opportunities
 
 ---
@@ -51,13 +52,14 @@ I build fast, responsive, and scalable applications with modern tools and clean 
 ---
 
 ## 🖥 Full Stack Development  
-### Backend
+
+### Backend  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Databases
+### Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -75,7 +77,7 @@ I build fast, responsive, and scalable applications with modern tools and clean 
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Markhortec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Markhortec&theme=blue-green&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&theme=blue-green&hide_border=false&layout=compact)
 
 ---
 
