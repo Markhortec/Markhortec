@@ -59,21 +59,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 🎯 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Markhortec&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-### 📈 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&layout=compact&theme=dark" alt="Top Languages" />
-
-### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Markhortec&theme=dark" alt="GitHub Streak" />
-
-</div>
-
 ### 📊 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Markhortec&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -108,20 +93,6 @@ I'm actively seeking opportunities to contribute to **innovative projects** as a
 </div>
 
 **Let's connect and create something amazing!**
-
----
-
-<div align="center">
-
-### 🌟 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Markhortec&color=blue&style=flat&label=PROFILE+VIEWS)
-
-### ⭐ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Markhortec&type=Date)](https://star-history.com/#Markhortec&Date)
-
-**"Transforming ideas into functional, elegant, and scalable software solutions."**  
-
-</div>
 
 ---
 
