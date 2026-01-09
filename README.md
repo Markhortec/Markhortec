@@ -64,47 +64,25 @@
 ### 🎯 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markhortec&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=Muhammad%20Hamza%20Khan%27s%20GitHub%20Stats)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🎯 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markhortec&show_icons=true&theme=radical)
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css,scss,less,shell)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Markhortec&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Markhortec&theme=radical)
+
+</div>
 
 ### 📊 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Markhortec&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 📱 GitHub Trophies
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Markhortec&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🏆 Featured Projects  
-
-### **Android E-Commerce App**  
-*Kotlin • Jetpack Compose • Firebase • MVVM*  
-Complete e-commerce solution with real-time inventory, payment integration, and admin panel.
-
-### **Full Stack Task Management**  
-*React • Node.js • MongoDB • Redux Toolkit*  
-Collaborative task management platform with real-time updates and role-based permissions.
-
-### **Healthcare Management System**  
-*.NET • SQL Server • React • Docker*  
-Enterprise healthcare solution with patient records, appointment scheduling, and reporting.
-
-### **Cross-Platform Delivery App**  
-*React Native • Node.js • MongoDB • AWS*  
-Food delivery application with real-time tracking, push notifications, and multi-vendor support.
 
 ---
 
@@ -152,5 +130,5 @@ I'm actively seeking opportunities to contribute to **innovative projects** as a
 
 ---
 
-*Last Updated: January 2024*  
+*Last Updated: January 2025*  
 *Open to: Full-time • Contract • Freelance • Remote Opportunities*
