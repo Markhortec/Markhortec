@@ -59,23 +59,18 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-### 🎯 GitHub Stats
-<div align="center">
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 ### 🎯 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markhortec&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Markhortec&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&layout=compact&theme=dark" alt="Top Languages" />
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Markhortec&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Markhortec&theme=dark" alt="GitHub Streak" />
 
 </div>
 
