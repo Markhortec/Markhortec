@@ -1,96 +1,156 @@
+# Muhammad Hamza Khan  
+**Full Stack Developer & Software Engineer**  
+*Frontend Specialist | Android Developer | Database Designer*  
+
+📍 **Islamabad, Pakistan** | 📧 **mh410981@gmail.com**  
+
+---
+
+## 👨‍💻 Professional Profile  
+**Full Stack Software Engineer** with expertise in **modern web technologies**, **mobile application development**, and **database design**. Passionate about building scalable, high-performance applications with clean architecture and intuitive user experiences. Combining strong frontend skills with robust backend knowledge to deliver complete software solutions.
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-khan-885071249/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Markhortec)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053276571331)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelastrid3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com) *<!-- Add your portfolio link here -->*
+
+---
+
+## 💼 Technical Expertise  
+
+### **Frontend Engineering**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### **Mobile Development**  
+![Android (Kotlin)](https://img.shields.io/badge/Android%20(Kotlin)-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### **Backend & Full Stack**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### **Database Design & Management**  
+![Database Design](https://img.shields.io/badge/Database%20Design-003B57?style=flat&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### **DevOps & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics  
+
+### 🎯 GitHub Stats
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Muhammad%20Hamza%20Khan&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%" />
 
-  <p align="center">
-    <b>Full Stack Software Engineer | Frontend Specialist | Android Developer</b>
-  </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markhortec&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=Muhammad%20Hamza%20Khan%27s%20GitHub%20Stats)
 
-  <p align="center">
-    <a href="mailto:mh410981@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/Markhortec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+### 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=html,css,scss,less,shell)
 
-  ---
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Markhortec&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-  ### ⚡ Quick Summary
-  *Transforming ideas into functional, elegant, and scalable software solutions.*
-  I specialize in building high-performance applications with **Clean Architecture** and **Intuitive UI/UX**.
-
-  ---
-</div>
-
-## 🚀 Tech Stack & Skills
-
-<div align="center">
-
-| **Frontend** | **Mobile** | **Backend** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" /> | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,reactnative,firebase" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,php" /> |
-
-| **Databases** | **DevOps & Tools** |
-| :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle" /> | <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,postman" /> |
+### 📊 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Markhortec&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🛠️ Featured Portfolio
+## 📱 GitHub Trophies
+<div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Android E-Commerce</h3>
-      <p>A complete mobile shopping experience built with <b>Kotlin & Jetpack Compose</b>. Features real-time sync with Firebase and a smooth MVVM flow.</p>
-      <code>Kotlin</code> <code>Firebase</code> <code>Compose</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Healthcare System</h3>
-      <p>Enterprise-grade management system using <b>.NET Core & React</b>. Includes patient records, scheduling, and high-security data handling.</p>
-      <code>.NET</code> <code>SQL Server</code> <code>Docker</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 Cross-Platform Delivery</h3>
-      <p>Real-time delivery tracking app using <b>React Native</b>. Integrated with AWS for cloud scaling and Node.js for high-speed API logic.</p>
-      <code>React Native</code> <code>AWS</code> <code>Node.js</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✅ Task Management</h3>
-      <p>Collaborative platform with real-time updates using <b>Socket.io & MongoDB</b>. Focused on team productivity and role-based access.</p>
-      <code>React</code> <code>Redux</code> <code>MongoDB</code>
-    </td>
-  </tr>
-</table>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Markhortec&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
+</div>
 
 ---
 
-## 📊 Performance Metrics
+## 🏆 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Markhortec&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markhortec&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555" width="45%" />
-</p>
+### **Android E-Commerce App**  
+*Kotlin • Jetpack Compose • Firebase • MVVM*  
+Complete e-commerce solution with real-time inventory, payment integration, and admin panel.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markhortec&theme=transparent&hide_border=true&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" width="100%" />
-</p>
+### **Full Stack Task Management**  
+*React • Node.js • MongoDB • Redux Toolkit*  
+Collaborative task management platform with real-time updates and role-based permissions.
+
+### **Healthcare Management System**  
+*.NET • SQL Server • React • Docker*  
+Enterprise healthcare solution with patient records, appointment scheduling, and reporting.
+
+### **Cross-Platform Delivery App**  
+*React Native • Node.js • MongoDB • AWS*  
+Food delivery application with real-time tracking, push notifications, and multi-vendor support.
 
 ---
 
-## 🤝 Let's Connect
-I’m always open to discussing **innovative projects**, **full-time roles**, or **freelance collaborations**. 
-
+## 🔄 Development Philosophy  
 <div align="center">
-  <img src="https://img.shields.io/badge/Open%20To%20Work-YES-brightgreen?style=for-the-badge" />
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it." />
+
+| Principle | Description |
+|-----------|-------------|
+| 🧹 **Clean Code** | Following SOLID principles and design patterns |
+| ⚡ **Performance** | Optimized applications with minimal loading times |
+| 📈 **Scalability** | Building systems that grow with user demand |
+| 🔒 **Security** | Implementing best practices for data protection |
+| 🎨 **UI/UX Focus** | Creating intuitive and accessible interfaces |
+
 </div>
 
+---
+
+## 📫 Let's Build Together  
+I'm actively seeking opportunities to contribute to **innovative projects** as a **Full Stack Developer** or **Software Engineer**. Whether you need:
+
 <div align="center">
-  <br />
-  <sub>Last updated: Jan 2026 • Visitors:</sub>
-  <img src="https://komarev.com/ghpvc/?username=Markhortec&color=blue&style=flat-square" align="center" />
+
+| 🚀 | 📱 | 🗄️ | 🎨 | 🔗 |
+|----|----|----|----|----|
+| Complete software solutions | Cross-platform apps | Database design | Modern interfaces | API development |
+
 </div>
+
+**Let's connect and create something amazing!**
+
+---
+
+<div align="center">
+
+### 🌟 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Markhortec&color=blue&style=flat&label=PROFILE+VIEWS)
+
+### ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Markhortec&type=Date)](https://star-history.com/#Markhortec&Date)
+
+**"Transforming ideas into functional, elegant, and scalable software solutions."**  
+
+</div>
+
+---
+
+*Last Updated: January 2024*  
+*Open to: Full-time • Contract • Freelance • Remote Opportunities*
