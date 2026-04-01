@@ -1,6 +1,6 @@
 # Muhammad Hamza Khan  
 **Full Stack Developer & Software Engineer**  
-*Frontend Specialist | Android Developer | Database Designer*  
+*Mobile App Developer | Android Developer | Database Designer | Backend Developer*  
 
 📍 **Islamabad, Pakistan** | 📧 **mh410981@gmail.com**  
 
